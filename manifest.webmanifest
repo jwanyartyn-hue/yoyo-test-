@@ -1,0 +1,12 @@
+{
+  "name": "تست یویو حرفه‌ای",
+  "short_name": "تست یویو",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1725",
+  "theme_color": "#10243a",
+  "icons": []
+}
